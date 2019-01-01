@@ -1,5 +1,5 @@
 import { join } from 'path'
-import { ensureAbsolute } from '../src/helpers/ensure'
+import { ensureAbsolute } from '../../src/helpers/ensure'
 
 describe('ensureAbsolute ensurer', () => {
   it('should return true when the given path is absolute', () => {
