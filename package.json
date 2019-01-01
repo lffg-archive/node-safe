@@ -14,8 +14,11 @@
       "path": "./node_modules/cz-conventional-changelog"
     }
   },
-  "dependencies": {},
+  "dependencies": {
+    "uuid": "^3.3.2"
+  },
   "devDependencies": {
+    "@types/uuid": "^3.4.4",
     "commitizen": "^3.0.5",
     "cz-conventional-changelog": "^2.1.0",
     "nodemon": "^1.18.9",
