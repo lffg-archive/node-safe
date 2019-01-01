@@ -35,9 +35,11 @@
     }
   },
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "uuid": "^3.3.2"
   },
   "devDependencies": {
+    "@types/bcryptjs": "^2.4.2",
     "@types/jest": "^23.3.11",
     "@types/uuid": "^3.4.4",
     "commitizen": "^3.0.5",
