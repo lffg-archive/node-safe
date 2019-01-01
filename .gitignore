@@ -4,4 +4,4 @@ dist
 .env
 
 # Safe:
-./safe
+safe-data
